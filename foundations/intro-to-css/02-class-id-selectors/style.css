@@ -1,0 +1,19 @@
+.odd{
+    background-color:lightpink;
+    font-family:DejaVu Sans,Verdana, sans-serif;
+}
+
+.cooler-odd{
+    font-size: 24px;
+}
+
+#id4{
+    background-color: lightgreen;
+    font-weight: bold;
+    font-size: 24px;
+}
+
+#id2{
+    font-size: 36px;
+    color: blue;
+}
